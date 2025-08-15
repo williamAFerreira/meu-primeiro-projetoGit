@@ -7,3 +7,4 @@ PROFESSOR:
 ALUNOS:
     Emilly
     Ana Julia
+    Amanda
