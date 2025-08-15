@@ -11,3 +11,4 @@ ALUNOS:
     bruno
     Everton
     Luiz
+    Carlos Eduardo
