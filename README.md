@@ -8,3 +8,4 @@ ALUNOS:
     Emilly
     Ana Julia
     Amanda
+    bruno
