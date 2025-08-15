@@ -10,3 +10,4 @@ ALUNOS:
     Amanda
     bruno
     Everton
+    Luiz
