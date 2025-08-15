@@ -9,3 +9,4 @@ ALUNOS:
     Ana Julia
     Amanda
     bruno
+    Everton
